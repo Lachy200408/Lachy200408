@@ -20,7 +20,7 @@
   ## Mis proyectos más importantes:
   <ul>
     <li>
-      <h3>Hamburgabana</h3>
+      <h2><a href="https://github.com/Lachy200408/Hamburgabana">Hamburgabana</a></h2>
       <img src="https://github.com/Lachy200408/Hamburgabana/blob/master/design/Hamburguesa_branding.webp" width="400px"/>
       <p>
         El sitio web de la tienda de hamburguesas más famosa de Cuba. Tiene información sobre la empresa y
