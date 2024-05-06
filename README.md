@@ -4,10 +4,10 @@
 
 # Hola, me llamo Lázaro Parra González.
 
-- ![**Conoce sobre mí**](#biograf%C3%ADa)
-- ![**Proyectos**](#mis-proyectos-m%C3%A1s-importantes)
-- ![**Redes**](#s%C3%ADgueme-y-cont%C3%A1ctame-en-mis-redes-sociales)
-- ![**Habilidades**](#por-qu%C3%A9-necesitas-mi-trabajo)
+- [**Conoce sobre mí**](#biograf%C3%ADa)
+- [**Proyectos**](#mis-proyectos-m%C3%A1s-importantes)
+- [**Redes**](#s%C3%ADgueme-y-cont%C3%A1ctame-en-mis-redes-sociales)
+- [**Habilidades**](#por-qu%C3%A9-necesitas-mi-trabajo)
 
   ## Biografía: 
   Soy un joven cubano inteligente y capaz, desde la niñez, destaqué un la solución de problemas,
@@ -30,11 +30,11 @@
   </ul>
 
   ## Sígueme y contáctame en mis redes sociales:
-  - ![Whatsapp](http://wa.me/+5353299466?text=Hola)
-  - ![Instagram](https://www.instagram.com/lazaroparraj/)
-  - ![Facebook](https://www.facebook.com/lazaro.parra.583)
-  - ![Twitter](https://twitter.com/Lachy9716929882)
-  - ![LinkedIn](https://www.linkedin.com/in/lazaro-parra-gonzalez-47b55628a)
+  - [Whatsapp](http://wa.me/+5353299466?text=Hola)
+  - [Instagram](https://www.instagram.com/lazaroparraj/)
+  - [Facebook](https://www.facebook.com/lazaro.parra.583)
+  - [Twitter](https://twitter.com/Lachy9716929882)
+  - [LinkedIn](https://www.linkedin.com/in/lazaro-parra-gonzalez-47b55628a)
 
   ## ¿Por qué necesitas mi trabajo?
   - Desarrollo sitios web o páginas estáticas de toda índole.
