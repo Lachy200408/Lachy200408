@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/imagen-usuario-1.webp" width="400px" height="400px"/>
+  <img src="/imagen-usuario-1.webp" width="400px" height="auto" style="max-width: 100%; aspect-ratio: 1/1;"/>
 </div>
 
 # Hola, me llamo Lázaro Parra González.
