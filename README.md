@@ -8,6 +8,7 @@
 - [**Proyectos**](#mis-proyectos-m%C3%A1s-importantes)
 - [**Redes**](#s%C3%ADgueme-y-cont%C3%A1ctame-en-mis-redes-sociales)
 - [**Habilidades**](#por-qu%C3%A9-necesitas-mi-trabajo)
+- [**Tecnologías**](#tecnolog%C3%ADas-que-utilizo)
 
   ## Biografía: 
   Soy un joven cubano inteligente y capaz. Desde la niñez, destaqué en la solución de problemas,
