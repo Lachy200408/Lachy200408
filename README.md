@@ -20,14 +20,18 @@
   ## Mis proyectos más importantes:
   <ul>
     <li>
-      <h2>Hamburgabana</h2>
-      <a href="https://github.com/Lachy200408/Hamburgabana">
-        <img src="https://github.com/Lachy200408/Hamburgabana/blob/master/design/hamburgabana-poster.jpg" width="500px"/>
-      </a>
-      <p>
-        El sitio web de la tienda de hamburguesas más famosa de Cuba. Tiene información sobre la empresa y
-        los menús que oferta. Fue construido con Html, Css, Javascript y diseñado con Adobe Illustrator.
-      </p>
+      <h2 align="center">Hamburgabana</h2>
+      <div align="center">
+        <a href="https://github.com/Lachy200408/Hamburgabana" align="center">
+          <img src="https://github.com/Lachy200408/Hamburgabana/blob/master/design/hamburgabana-poster.jpg" width="500px" align="center"/>
+        </a>
+      </div>
+      <div>
+        <p>
+          El sitio web de la tienda de hamburguesas más famosa de Cuba. Tiene información sobre la empresa y
+          los menús que oferta. Fue construido con Html, Css, Javascript y diseñado con Adobe Illustrator.
+        </p>
+      </div>
     </li>
   </ul>
 
