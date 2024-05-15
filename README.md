@@ -27,10 +27,24 @@
           <img src="https://github.com/Lachy200408/Hamburgabana/blob/master/design/hamburgabana-poster.jpg" width="500px" align="center"/>
         </a>
       </div>
-      <div>
+      <div align="center">
         <p>
           El sitio web de la tienda de hamburguesas más famosa de Cuba. Tiene información sobre la empresa y
           los menús que oferta. Fue construido con Html, Css, Javascript y diseñado con Adobe Illustrator.
+        </p>
+      </div>
+    </div>
+    
+    <div>
+      <h2 align="center">ContabiliApp</h2>
+      <div align="center">
+        <a href="https://github.com/Lachy200408/AppContabilidad" align="center">
+          <img src="https://github.com/Lachy200408/AppContabilidad/blob/main/poster.png" width="500px" align="center"/>
+        </a>
+      </div>
+      <div align="center">
+        <p>
+          Una aplicación online rápida y eficiente para contabilizar, llevar registros de cuentas, generar documentos y hacer cálculos.
         </p>
       </div>
     </div>
