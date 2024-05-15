@@ -19,7 +19,7 @@
 
   ## Mis proyectos más importantes:
   <ul>
-    <li>
+    <div>
       <h2 align="center">Hamburgabana</h2>
       <div align="center">
         <a href="https://github.com/Lachy200408/Hamburgabana" align="center">
@@ -32,7 +32,7 @@
           los menús que oferta. Fue construido con Html, Css, Javascript y diseñado con Adobe Illustrator.
         </p>
       </div>
-    </li>
+    </div>
   </ul>
 
   ## Sígueme y contáctame en mis redes sociales:
