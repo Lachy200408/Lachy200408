@@ -10,12 +10,12 @@
 - [**Habilidades**](#por-qu%C3%A9-necesitas-mi-trabajo)
 
   ## Biografía: 
-  Soy un joven cubano inteligente y capaz, desde la niñez, destaqué un la solución de problemas,
+  Soy un joven cubano inteligente y capaz. Desde la niñez, destaqué en la solución de problemas,
   las matemáticas y las ciencias. Mi vida cambió al cursar el bachillerato en la vocacional de ciencias
   exactas de la Habana: Vladimir Ilich Lenin. En la intitución, aprendí muchísimo sobre las matemáticas,
   la física, la informática, fue el punto de inflección que me enfocó en la tecnología y el conocimiento
   del mundo. Actualmente voy a la Universidad de la Habana y estudio licenciatura en Contabilidad y Finanzas,
-  mientras desarrollo, autodidacticamente, mis habilidades como desarrollador de software y diseñador web.
+  mientras fomento, autodidacticamente, mis habilidades como desarrollador de software y diseñador web.
 
   ## Mis proyectos más importantes:
   <ul>
