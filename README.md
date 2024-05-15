@@ -24,7 +24,7 @@
       <h2 align="center">Hamburgabana</h2>
       <div align="center">
         <a href="https://github.com/Lachy200408/Hamburgabana" align="center">
-          <img src="https://github.com/Lachy200408/Hamburgabana/blob/master/design/hamburgabana-poster.jpg" width="500px" align="center"/>
+          <img src="https://github.com/Lachy200408/Hamburgabana/blob/master/design/hamburgabana-poster.png" width="500px" align="center"/>
         </a>
       </div>
       <div align="center">
