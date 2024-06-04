@@ -51,8 +51,8 @@
     <div>
       <h2 align="center">ContabiliApp</h2>
       <div align="center">
-        <a href="https://lachy200408.github.io/AppContabilidad/" align="center">
-          <img src="https://github.com/Lachy200408/AppContabilidad/blob/main/poster.png" width="500px" align="center"/>
+        <a href="https://appcontabilidad.onrender.com" align="center">
+          <img src="https://github.com/Lachy200408/AppContabilidad/blob/main/web/assets/images/diario-poster.png" width="500px" align="center"/>
         </a>
       </div>
       <div align="center">
